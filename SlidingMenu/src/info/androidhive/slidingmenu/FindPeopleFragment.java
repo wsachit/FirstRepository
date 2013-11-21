@@ -10,6 +10,8 @@ public class FindPeopleFragment extends Fragment {
 	
 	public FindPeopleFragment(){}
 	
+	// changed by sachit..
+	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
